@@ -1,9 +1,9 @@
-#♟️ Chess System
+# ♟️ Chess System
 
 A console-based chess game developed in Java. This project demonstrates object-oriented programming (OOP) principles through the implementation of a complete chess game, including piece movement rules, game state management, and a simple text-based interface.
 This project was made through Nelio Alves's Udemy Course "Java COMPLETO Programação Orientada a Objetos + Projetos"  @acenelio (Github)
 
-##🧰 Features
+## 🧰 Features
 
 - Full chess match simulation
 - Move validation according to official chess rules
@@ -12,7 +12,7 @@ This project was made through Nelio Alves's Udemy Course "Java COMPLETO Programa
 - Console-based UI with colored board representation
 - Custom exceptions for error handling
 
-##📁 Project Structure
+## 📁 Project Structure
 ```
 chess-system/
 ├── src/
@@ -31,7 +31,7 @@ chess-system/
 │ ├── pieces/ # Individual chess piece classes
 │ └── Color.java # Enum for piece colors
 ```
-##🖥️ How to Run
+## 🖥️ How to Run
 
 1. **Requirements**:
    - Java JDK 8 or higher
@@ -45,11 +45,11 @@ chess-system/
      java application.Program
      ```
 
-##🎮 Example Gameplay
+## 🎮 Example Gameplay
 
 After running, the console will show a chessboard. Players will be prompted to input their moves using standard algebraic notation (e.g., `e2` to `e4`). The game alternates turns and shows the updated board after each move.
 
-##🎯 Learning Objectives
+## 🎯 Learning Objectives
 
 This project was developed as part of an OOP learning path. It demonstrates:
 
@@ -59,7 +59,7 @@ This project was developed as part of an OOP learning path. It demonstrates:
 - Exception handling
 - Clean architecture practices
 
-##📄 License
+## 📄 License
 
 This project is for educational use and is not intended for production. Feel free to use it as a learning resource.
 
